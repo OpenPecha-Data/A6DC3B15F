@@ -1,0 +1,31 @@
+id: A6DC3B15F
+title: The Last Testament of Katok Dampa Deshek
+type: translation
+pechas:
+- I7B8B2DDB
+- IBA6472D8
+- I1527EFC4
+- I4BFD0F5E
+- I24BE7A92
+- I29457AD5
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - nl
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:47:04.346232
+  last_modified_at: 2023-01-04 12:47:04.346253
+  collections:
+  - Katok Dampa Deshek Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I7B8B2DDB/4C4A: '5064'
+  IBA6472D8/2E9D: '5064'
+  I1527EFC4/39D4: '5064'
+  I4BFD0F5E/946B: '5064'
+  I24BE7A92/33FB: '5064'
+  I29457AD5/9437: '5064'
